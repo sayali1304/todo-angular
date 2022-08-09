@@ -22,13 +22,7 @@ constructor() {
   ngOnInit(): void {
 
     
-    const sayu =[1,2,34,87,95];
-
-    sayu.forEach(a=>{
-      console.log(a*30)
-
-      a+30;
-    })
+   
   }
   
 deleteTodo(todo:any){
